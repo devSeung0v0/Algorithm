@@ -11,3 +11,4 @@ console.log(solution(EvenNum));//Even
 console.log(solution(OddNum));//Odd
 
 
+
