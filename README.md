@@ -11,7 +11,8 @@
 5) [가운데 글자 가져오기] https://programmers.co.kr/learn/courses/30/lessons/12903
 6) [같은 숫자는 싫어] https://programmers.co.kr/learn/courses/30/lessons/12906
 7) [완주하지 못한 선수] https://programmers.co.kr/learn/courses/30/lessons/42576
-8) 
+8) [문자열 내림차순으로 배치하기] https://programmers.co.kr/learn/courses/30/lessons/12917
+9) 
 
 
 
