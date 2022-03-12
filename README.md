@@ -14,6 +14,6 @@
 8) [문자열 내림차순으로 배치하기] https://programmers.co.kr/learn/courses/30/lessons/12917
 9) [핸드폰 번호 가리기] https://programmers.co.kr/learn/courses/30/lessons/12948
 10) [문자열을 정수로 바꾸기] https://programmers.co.kr/learn/courses/30/lessons/12925
-11) [문자열 다루기 기본] https://programmers.co.kr/learn/courses/30/lessons/12918
+11) [문자열 다루기 기본] https://programmers.co.kr/learn/courses/30/lessons/12918 ⭐️ test11에서 고전.. isNaN은 e 라는 지수를 숫자로 반환한다는 점 기억하기!
 
 
