@@ -17,5 +17,6 @@
 11) [문자열 다루기 기본] https://programmers.co.kr/learn/courses/30/lessons/12918 ⭐️ test11에서 고전.. isNaN은 e 라는 지수를 숫자로 반환한다는 점 기억하기!
 12) [약수의 합] https://programmers.co.kr/learn/courses/30/lessons/12928
 13) [서울에서 김서방 찾기] https://programmers.co.kr/learn/courses/30/lessons/12919
+14) [두 정수 사이의 합] https://programmers.co.kr/learn/courses/30/lessons/12912
 
 
