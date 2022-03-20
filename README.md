@@ -18,5 +18,5 @@
 12) [약수의 합] https://programmers.co.kr/learn/courses/30/lessons/12928
 13) [서울에서 김서방 찾기] https://programmers.co.kr/learn/courses/30/lessons/12919
 14) [두 정수 사이의 합] https://programmers.co.kr/learn/courses/30/lessons/12912
-
+15) [문자열 내 p와 y의 개수] https://programmers.co.kr/learn/courses/30/lessons/12916
 
