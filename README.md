@@ -20,4 +20,5 @@
 14) [두 정수 사이의 합] https://programmers.co.kr/learn/courses/30/lessons/12912
 15) [문자열 내 p와 y의 개수] https://programmers.co.kr/learn/courses/30/lessons/12916
 16) [음양 더하기] https://programmers.co.kr/learn/courses/30/lessons/76501
+17) [직사각형 별찍기] https://programmers.co.kr/learn/courses/30/lessons/12969?language=javascript ⭐️for문 두 번 보다 repeat() 쓰는 것 기억하기
 
