@@ -30,3 +30,4 @@
 ## Leetcode
 
 1) [Reverse String](https://leetcode.com/problems/reverse-string/)
+2) [Two Sum](https://leetcode.com/problems/two-sum/)
