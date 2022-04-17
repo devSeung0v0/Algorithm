@@ -37,3 +37,4 @@
 6) [Number Complement](https://leetcode.com/problems/number-complement/)
 7) [Find the Difference](https://leetcode.com/problems/find-the-difference/)
 8) [Majority Element](https://leetcode.com/problems/majority-element/)
+9) [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
