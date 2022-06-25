@@ -40,3 +40,4 @@
 9) [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 10) [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 11) [Add Two Integers](https://leetcode.com/problems/add-two-integers/) 💡 rest 파라미터 사용
+12) [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/)
